@@ -4,7 +4,7 @@
 #
 Name     : terminaltables
 Version  : 3.1.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/9b/c4/4a21174f32f8a7e1104798c445dacdc1d4df86f2f26722767034e4de4bff/terminaltables-3.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9b/c4/4a21174f32f8a7e1104798c445dacdc1d4df86f2f26722767034e4de4bff/terminaltables-3.1.0.tar.gz
 Summary  : Generate simple tables in terminals from a nested list of strings.
